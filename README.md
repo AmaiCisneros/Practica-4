@@ -64,7 +64,7 @@ void loop()
 
 }
 -2. Instalar la libreria de DHT sensor library for ESPx como se muestra en la siguente imagen.
-![]( )
+![]( https://github.com/AmaiCisneros/Practica-4/blob/main/4.png)
 
 -3. Instalar la libreria de LiquidCrystal I2C como se muestra en la siguente imagen.
 ![]()
