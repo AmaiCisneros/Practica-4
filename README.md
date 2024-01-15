@@ -70,7 +70,7 @@ void loop()
 ![](https://github.com/AmaiCisneros/Practica-4/blob/main/5.png)
 
 -4. Hacer la conexion de HC-SR04 con la ESP32 como se muestra en la siguente imagen.
-![]()
+![](https://github.com/AmaiCisneros/Practica-4/blob/main/6.png)
 
 -5.Hacer la conexion de LCD16x2(I2C) con la ESP32 como se muestra en la siguente imagen.
 ![]()
