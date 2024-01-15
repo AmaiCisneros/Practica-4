@@ -67,7 +67,7 @@ void loop()
 ![]( https://github.com/AmaiCisneros/Practica-4/blob/main/4.png)
 
 -3. Instalar la libreria de LiquidCrystal I2C como se muestra en la siguente imagen.
-![]()
+![](https://github.com/AmaiCisneros/Practica-4/blob/main/5.png)
 
 -4. Hacer la conexion de HC-SR04 con la ESP32 como se muestra en la siguente imagen.
 ![]()
