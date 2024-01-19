@@ -69,7 +69,7 @@ void loop()
 
 2. Visualizar los datos en el monitor serial.
 Colocar la distancia dando doble click al sensor Ultrasonico
-![](https://github.com/AmaiCisneros/Practica-4/blob/main/11.png)
+![](https://github.com/AmaiCisneros/Practica-4/blob/main/111111.png)
 
 Resultados
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen;
@@ -83,6 +83,6 @@ Colocar la distancia dando doble click al sensor HC-SR04
 
 ## Resultados
 Cuando haya funcionado, verás los valores dentro del monitor serial y el display como se muestra en la siguente imagen.
-![](https://github.com/AmaiCisneros/Practica-4/blob/main/7.png)
+![]()
 
 
