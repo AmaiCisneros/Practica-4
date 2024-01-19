@@ -73,7 +73,7 @@ Colocar la distancia dando doble click al sensor Ultrasonico
 
 Resultados
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen;
-![]()
+![](https://github.com/AmaiCisneros/Practica-4/blob/main/12.png)
 
 
 -. Instrucciónes de operación
