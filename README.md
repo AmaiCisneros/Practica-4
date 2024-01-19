@@ -7,7 +7,7 @@ La ESP32 la utilizamos en un entorno de adquision de datos, lo cual en esta prac
  ° WOKWI
  °Tarjeta ESP32
  °Sensor HC-SR04
- °Display LCD16x2(I2C)
+ °LCD16x2(I2C)
  
 .Requisitos previos
 Para poder usar este repositorio necesitas entrar a la plataforma WOKWI.
@@ -57,25 +57,25 @@ void loop()
   delay(1000);
   lcd.clear();
   lcd.setCursor(0, 0);
-  lcd.print("Ing. Mecanico");
+  lcd.print("Ing. Industrial");
   lcd.setCursor(0, 1);
-  lcd.print("Cristian Mejia");
+  lcd.print("Amairani Cisneros");
   delay(2000);
 
 }
--2. Instalar la libreria de DHT sensor library for ESPx como se muestra en la siguente imagen.
-![]( https://github.com/AmaiCisneros/Practica-4/blob/main/4.png)
 
--3. Instalar la libreria de LiquidCrystal I2C como se muestra en la siguente imagen.
-![](https://github.com/AmaiCisneros/Practica-4/blob/main/5.png)
-
--4. Hacer la conexion de HC-SR04 con la ESP32 como se muestra en la siguente imagen.
-![](https://github.com/AmaiCisneros/Practica-4/blob/main/6.png)
-
--5.Hacer la conexion de LCD16x2(I2C) con la ESP32 como se muestra en la siguente imagen.
+1.Instalar la libreria DHT sensor library for ESPx y LiquidCrystal I2C como se muestra en la siguente imagen.
 ![](https://github.com/AmaiCisneros/Practica-4/blob/main/7.png)
 
--6. Instrucciónes de operación
+2. Visualizar los datos en el monitor serial.
+Colocar la temperatura y humedad dando doble click al sensor Ultrasonico
+
+Resultados
+Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen;
+![](https://github.com/AmaiCisneros/Practica-4/blob/main/7.png)
+
+
+-. Instrucciónes de operación
 Iniciar simulador.
 Visualizar los datos en el monitor serial.
 Colocar la distancia dando doble click al sensor HC-SR04
