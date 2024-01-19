@@ -65,11 +65,11 @@ void loop()
 }
 
 1.Instalar la libreria DHT sensor library for ESPx y LiquidCrystal I2C como se muestra en la siguente imagen.
-![](https://github.com/AmaiCisneros/Practica-4/blob/main/11.png)
+![](https://github.com/AmaiCisneros/Practica-4/blob/main/10.png)
 
 2. Visualizar los datos en el monitor serial.
 Colocar la distancia dando doble click al sensor Ultrasonico
-![]()
+![](https://github.com/AmaiCisneros/Practica-4/blob/main/11.png)
 
 Resultados
 Cuando haya funcionado, verás los valores dentro del monitor serial como se muestra en la siguente imagen;
