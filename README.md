@@ -73,7 +73,7 @@ void loop()
 ![](https://github.com/AmaiCisneros/Practica-4/blob/main/6.png)
 
 -5.Hacer la conexion de LCD16x2(I2C) con la ESP32 como se muestra en la siguente imagen.
-![]()
+![](https://github.com/AmaiCisneros/Practica-4/blob/main/7.png)
 
 -6. Instrucciónes de operación
 Iniciar simulador.
@@ -82,6 +82,6 @@ Colocar la distancia dando doble click al sensor HC-SR04
 
 ## Resultados
 Cuando haya funcionado, verás los valores dentro del monitor serial y el display como se muestra en la siguente imagen.
-![]()
+![](https://github.com/AmaiCisneros/Practica-4/blob/main/7.png)
 
 
