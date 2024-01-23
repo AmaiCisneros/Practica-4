@@ -64,9 +64,9 @@ Posteriormente :
 ![](https://github.com/AmaiCisneros/Practica-4/blob/main/10.png)
 
 2. Hacer la conexión entre los componentes:
-![](https://github.com/AmaiCisneros/Practica-4/blob/main/111111.png)
+![](https://github.com/AmaiCisneros/Practica-4/blob/main/6.png)]
 
-Inicia el simulador para asi mismo poder observar el valor que indicamos en la pantalla 
+3.Inicia el simulador para asi mismo poder observar el valor que indicamos en la pantalla 
 Resultados
 ![](https://github.com/AmaiCisneros/Practica-4/blob/main/111111.png)
 
