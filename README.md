@@ -1,8 +1,9 @@
 # Practica-No.4
-## Introduccion
-Descripción
- Utilizamos un simulador llamado WOKWI, Dentro de este utilizaremos una tarjeta  Esp32 y  un sensor (Ultrasonico) para medir la distancia; esta misma se vera reflejada dentro del LCD 
--.Para realizar esta practica necesitas lo siguiente:
+
+### Introducción
+Utilizamos un simulador llamado WOKWI, Dentro de este utilizaremos una tarjeta  Esp32 y  un sensor (Ultrasonico) para medir la distancia; esta misma se vera reflejada dentro del LCD 
+ 
+ #Para realizar esta practica necesitas lo siguiente:
  ° WOKWI
  °Tarjeta ESP32
  °Sensor HC-SR04
