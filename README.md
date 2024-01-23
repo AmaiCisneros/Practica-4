@@ -1,4 +1,4 @@
-# Practica-No.4-ESP32-con-Ultrasonico-y-LCD
+# Practica-No.4
 ## Introduccion
 Descripción
  Utilizamos un simulador llamado WOKWI, Dentro de este utilizaremos una tarjeta  Esp32 y  un sensor (Ultrasonico) para medir la distancia; esta misma se vera reflejada dentro del LCD 
